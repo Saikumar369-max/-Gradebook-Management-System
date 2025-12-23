@@ -1,0 +1,31 @@
+[
+    {
+        "name": "ramesh",
+        "roll_number": 100,
+        "grades": {
+            "python": 98
+        }
+    },
+    {
+        "name": "suresh",
+        "roll_number": 200,
+        "grades": {}
+    },
+    {
+        "name": "alice",
+        "roll_number": 222,
+        "grades": {
+            "Maths": 78,
+            "science": 99,
+            "C": 97,
+            "java": 88
+        }
+    },
+    {
+        "name": "Bob",
+        "roll_number": 101,
+        "grades": {
+            "Maths": 77
+        }
+    }
+]
